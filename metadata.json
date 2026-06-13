@@ -1,0 +1,6 @@
+{
+  "name": "Élégance Africa",
+  "description": "Plateforme e-commerce haut de gamme et portail académique dédié à la promotion de la mode africaine, avec conseiller de style IA et livrables de projet de fin d'études.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
